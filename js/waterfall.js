@@ -32,7 +32,8 @@
   ];
 
   contentInit(demoContent) //内容初始化
-  waitImgsLoad() //等待图片加载，并执行布局初始化
+  //waitImgsLoad() //等待图片加载，并执行布局初始化
+  initGrid();//布局初始化
 }());
 
 /**
