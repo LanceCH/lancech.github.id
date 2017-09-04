@@ -17,9 +17,9 @@
       demo_link: 'https://lancech.github.io/bootstrap-demo/',
       img_link: '',
       code_link: 'https://github.com/LanceCH/bootstrap-demo/tree/master',
-      title: '仿知乎页面',
+      title: '响应式页面',
       core_tech: 'HTML BootStrap',
-      description: '使用BootStrap仿照知乎做了一个静态页面。'
+      description: '使用BootStrap仿照知乎做了一个响应式布局的页面。'
     }
   ];
 
