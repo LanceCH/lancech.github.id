@@ -14,9 +14,9 @@
      */
   var demoContent = [
  {
-      demo_link: 'http://gaohaoyang.github.io/test/bootstrap-zhihu/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/teach-girlfriend-html-CopyZhihu.jpg',
-      code_link: 'https://github.com/Gaohaoyang/test/tree/master/bootstrap-zhihu',
+      demo_link: 'http://lanchch.github.io/bootstrap-demo/',
+      img_link: '',
+      code_link: 'https://github.com/LanceCH/bootstrap-demo/tree/master/bootstrap-zhihu',
       title: '仿知乎页面',
       core_tech: 'HTML BootStrap',
       description: '使用BootStrap仿照知乎做了一个静态页面。'
