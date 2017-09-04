@@ -13,14 +13,22 @@
      * 内容JSON
      */
   var demoContent = [
- {
+    {
       demo_link: 'https://lancech.github.io/bootstrap-demo/',
       img_link: '',
       code_link: 'https://github.com/LanceCH/bootstrap-demo/tree/master',
       title: '响应式页面',
       core_tech: 'HTML BootStrap',
       description: '使用BootStrap仿照知乎做了一个响应式布局的页面。'
+    },{
+      demo_link: 'https://lancech.github.io/css3/slideshow/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/css3/slideshow/tree/master',
+      title: '3d轮播',
+      core_tech: 'HTML BootStrap',
+      description: '使用css3实现一个3d效果的轮播图。'
     }
+
   ];
 
   contentInit(demoContent) //内容初始化
