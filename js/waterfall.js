@@ -14,7 +14,7 @@
      */
   var demoContent = [
  {
-      demo_link: 'https://lanchch.github.io/bootstrap-demo/',
+      demo_link: 'https://lancech.github.io/bootstrap-demo/',
       img_link: '',
       code_link: 'https://github.com/LanceCH/bootstrap-demo/tree/master',
       title: '仿知乎页面',
