@@ -77,7 +77,7 @@
       core_tech: 'vue',
       description: '使用Vue.js仿照饿了么实现的购物车例子'
     }
-
+ 
   ];
 
   contentInit(demoContent) //内容初始化
