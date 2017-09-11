@@ -25,8 +25,57 @@
       img_link: '',
       code_link: 'https://lancech.github.io/css3/slideshow/tree/master',
       title: '3d轮播',
-      core_tech: 'HTML BootStrap',
+      core_tech: 'CSS3',
       description: '使用css3实现一个3d效果的轮播图。'
+    },{
+      demo_link: 'https://lancech.github.io/css3/animation/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/css3/animation/tree/master',
+      title: '一个摆球',
+      core_tech: 'CSS3',
+      description: '使用css3实现一个摆球'
+    },{
+      demo_link: 'https://lancech.github.io/css3/triangle/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/css3/triangle/tree/master',
+      title: 'css三角形',
+      core_tech: 'CSS3',
+      description: '使用css3实现一个三角形'
+    },{
+      demo_link: 'https://lancech.github.io/exercise/canvas/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/exercise/canvas/tree/master',
+      title: 'canvas',
+      core_tech: 'HTML5',
+      description: '使用canvas绘制一个时钟'
+    },{
+      demo_link: 'https://lancech.github.io/exercise/eChart/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/exercise/eChart/tree/master',
+      title: 'eChart',
+      core_tech: 'jq-plugin',
+      description: '使用eChart实现表格'
+    },{
+      demo_link: 'https://lancech.github.io/exercise/storage/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/exercise/storage/tree/master',
+      title: 'storage',
+      core_tech: 'HTML5',
+      description: '使用storage的例子'
+    },{
+      demo_link: 'https://lancech.github.io/exercise/sassDemo/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/exercise/sassDemo/tree/master',
+      title: 'sassDemo',
+      core_tech: 'Sass',
+      description: '使用Sass的例子'
+    },{
+      demo_link: 'https://lancech.github.io/exercise/vue-demo/',
+      img_link: '',
+      code_link: 'https://lancech.github.io/exercise/vue-demo/tree/master',
+      title: 'vue购物车',
+      core_tech: 'vue',
+      description: '使用Vue.js仿照饿了么实现的购物车例子'
     }
 
   ];
