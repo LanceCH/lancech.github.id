@@ -40,7 +40,7 @@
       code_link: 'https://lancech.github.io/css3/triangle/tree/master',
       title: 'css三角形',
       core_tech: 'CSS3',
-      description: '使用css3的border的透明属性实现一个三角形'
+      description: '使用border元素和css3的透明属性实现一个三角形'
     },{
       demo_link: 'https://lancech.github.io/exercise/canvas/',
       img_link: '',
