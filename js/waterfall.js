@@ -33,14 +33,14 @@
       code_link: 'https://lancech.github.io/css3/animation/tree/master',
       title: '一个摆球',
       core_tech: 'CSS3',
-      description: '使用css3实现一个摆球'
+      description: '使用css3中的animation属性实现一个摆球'
     },{
       demo_link: 'https://lancech.github.io/css3/triangle/',
       img_link: '',
       code_link: 'https://lancech.github.io/css3/triangle/tree/master',
       title: 'css三角形',
       core_tech: 'CSS3',
-      description: '使用css3实现一个三角形'
+      description: '使用css3的border的透明属性实现一个三角形'
     },{
       demo_link: 'https://lancech.github.io/exercise/canvas/',
       img_link: '',
