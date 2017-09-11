@@ -23,56 +23,56 @@
     },{
       demo_link: 'https://lancech.github.io/css3/slideshow/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/css3/slideshow/tree/master',
+      code_link: 'https://github.com/LanceCH/css3/tree/master/slideshow',
       title: '3d轮播',
       core_tech: 'CSS3',
       description: '使用css3实现一个3d效果的轮播图。'
     },{
       demo_link: 'https://lancech.github.io/css3/animation/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/css3/animation/tree/master',
+      code_link: 'https://github.com/LanceCH/css3/tree/master/animation',
       title: '一个摆球',
       core_tech: 'CSS3',
       description: '使用css3中的animation属性实现一个摆球'
     },{
       demo_link: 'https://lancech.github.io/css3/triangle/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/css3/triangle/tree/master',
+      code_link: 'https://github.com/LanceCH/css3/tree/master/triangle',
       title: 'css三角形',
       core_tech: 'CSS3',
       description: '使用border元素和css3的透明属性实现一个三角形'
     },{
       demo_link: 'https://lancech.github.io/exercise/canvas/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/exercise/canvas/tree/master',
+      code_link: 'https://github.com/LanceCH/exercise/tree/master/canvas',
       title: 'canvas',
       core_tech: 'HTML5',
       description: '使用canvas绘制一个时钟'
     },{
       demo_link: 'https://lancech.github.io/exercise/eChart/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/exercise/eChart/tree/master',
+      code_link: 'https://github.com/LanceCH/exercise/tree/master/eChart',
       title: 'eChart',
       core_tech: 'jq-plugin',
       description: '使用eChart实现表格'
     },{
       demo_link: 'https://lancech.github.io/exercise/storage/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/exercise/storage/tree/master',
+      code_link: 'https://github.com/LanceCH/exercise/tree/master/storage',
       title: 'storage',
       core_tech: 'HTML5',
       description: '使用storage的例子'
     },{
-      demo_link: 'https://lancech.github.io/exercise/sassDemo/',
+      demo_link: 'https://lancech.github.io/css3/sassDemo/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/exercise/sassDemo/tree/master',
+      code_link: 'https://github.com/LanceCH/css3/tree/master/sassDemo',
       title: 'sassDemo',
       core_tech: 'Sass',
       description: '使用Sass的例子'
     },{
-      demo_link: 'https://lancech.github.io/exercise/vue-demo/',
+      demo_link: 'https://lancech.github.io/vue-demo/',
       img_link: '',
-      code_link: 'https://github.com/LanceCH/exercise/vue-demo/tree/master',
+      code_link: 'https://github.com/LanceCH/vue-demo/tree/master',
       title: 'vue购物车',
       core_tech: 'vue',
       description: '使用Vue.js仿照饿了么实现的购物车例子'
